@@ -1,5 +1,5 @@
- DevGroup
-Bi haiken BAPTISTE
+# DevGroup
+# Bi haiken BAPTISTE
 Cadlaire CHARLES 
 ROSE Andrée DUCAMAY 
 Daxton Van Goebels DESIR
