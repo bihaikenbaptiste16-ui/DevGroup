@@ -3,7 +3,7 @@
 
 # Bi haiken BAPTISTE
 # Cadlaire CHARLES 
-# ROSE Andrée DUCAMAY 
+# Rose Andrée DUCAMAY 
 # Daxton Van Goebels DESIR
 
 **# App Ideas:**
