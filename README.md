@@ -25,6 +25,5 @@ Must have
 
   # Would be nice to have
   - Users have the ability to share the app by simply  tapping the share button
-![ezgif-6615dbb2523f1476 mp4-poster](https://github.com/user-attachments/assets/751b6a8f-252d-4ab0-9228-cbc3ec1cf38b)
-
-
+![ezgif-51802966fa09b6bf](https://github.com/user-attachments/assets/2149ff44-e371-4b69-9cd0-2a489f5faf91)
+!
