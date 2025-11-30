@@ -1,7 +1,7 @@
 # DevGroup
 Bi haiken BAPTISTE
 Cadlaire CHARLES 
-ROSE Andrée DUCAMAY
+ROSE Andrée DUCAMAY 
 Daxton Van Goebels DESIR
 
 **# App Ideas:**
