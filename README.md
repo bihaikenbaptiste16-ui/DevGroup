@@ -26,9 +26,9 @@
 # Would be nice to have
 Users have the ability to share the app by simply tapping the share button.
 
+![ezgif-1352b14671835270 (1)](https://github.com/user-attachments/assets/282c06f2-6aac-4948-bf59-fbc36f90fc23)
 
-# Gif
-https://github.com/user-attachments/assets/fb24486a-83a3-4e4e-a489-e73ee3b578c2
+
 
 # Design
 ![PXL_20251201_190115298](https://github.com/user-attachments/assets/43316615-65da-4f5a-bc5c-c578fad18fcc)
