@@ -1,10 +1,10 @@
 # DevGroup
 
 
-# Bi haiken BAPTISTE
-# Daxton Van Goebels DESIR 
-# Rose Andrée DUCAMAY 
-# Cadlaire CHARLES
+- Bi haiken BAPTISTE
+- Daxton Van Goebels DESIR 
+- Rose Andrée DUCAMAY 
+- Cadlaire CHARLES
 
 **# App Ideas:**
 -Make it easy for people to purchase fast food, especially office workers and students using only their phone and a bank account. 
@@ -30,7 +30,7 @@ Must have
 
 https://github.com/user-attachments/assets/fb24486a-83a3-4e4e-a489-e73ee3b578c2
 
-
+# Design
 ![PXL_20251201_190115298](https://github.com/user-attachments/assets/43316615-65da-4f5a-bc5c-c578fad18fcc)
 
 
