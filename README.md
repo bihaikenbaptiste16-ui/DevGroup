@@ -23,8 +23,6 @@ Must have
         -Complete the form and pay
          -If you make an error, use the back button to correct and re-order.  
 
-  # Would be nice to have
-  - Users have the ability to share the app by simply  tapping the share button
 
 
 
