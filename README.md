@@ -2,9 +2,9 @@
 
 
 # Bi haiken BAPTISTE
-# Cadlaire CHARLES 
+# Daxton Van Goebels DESIR 
 # Rose Andrée DUCAMAY 
-# Daxton Van Goebels DESIR
+# Cadlaire CHARLES
 
 **# App Ideas:**
 -Make it easy for people to purchase fast food, especially office workers and students using only their phone and a bank account. 
@@ -25,5 +25,7 @@ Must have
 
   # Would be nice to have
   - Users have the ability to share the app by simply  tapping the share button
+
+    #GIF
 ![ezgif-51802966fa09b6bf](https://github.com/user-attachments/assets/2149ff44-e371-4b69-9cd0-2a489f5faf91)
 !
