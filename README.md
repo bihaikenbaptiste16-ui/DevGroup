@@ -8,7 +8,7 @@
 
 # App Ideas:
 -Make it easy for people to purchase fast food, especially office workers and students using only their phone and a bank account. 
-- "A Wi Li Gou" will make  it simple for you to get a patty (or a snack) or a homemade meal with a natural juice without money account, all just one click.
+- "A Wi Li Gou" will make  it simple for you to get a patty (or a snack) or a homemade meal with a natural juice without money account, all just a simple click.
 
 # App final Ideas
 "A Wi Li Gou" aims to help wokers, students, and directors(or managers)get abreakfast without having to travel. this will futher help them withtheir concentration.
@@ -23,7 +23,8 @@
         -Complete the form and pay
          -If you make an error, use the back button to correct and re-order.  
 
-
+# Would be nice to have
+Users have the ability to share the app by simply tapping the share button.
 
 
 # Gif
